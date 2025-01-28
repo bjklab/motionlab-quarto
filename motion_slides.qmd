@@ -1,0 +1,83 @@
+---
+pagetitle: "Microbiome Transmission"
+author: "Brendan J. Kelly"
+format: 
+  revealjs:
+    theme: dark
+    smaller: true
+    #incremental: true
+---
+
+## Microbiome Transmission {auto-animate=true}
+
+- Microbial ecology field studies  
+
+## Microbiome Transmission {auto-animate=true}
+
+- Microbial ecology field studies  
+
+- Population studies of MDROs
+
+
+## Microbiome Transmission {auto-animate=true}
+
+- Microbial ecology field studies  
+
+- Population studies of MDROs
+
+- Interventional studies  
+
+
+## Microbiome Transmission {auto-animate=true}
+
+::: {style="font-size: 1.2em; color: dodgerblue;"}
+- Microbial ecology field studies  
+    - quantifying colonization resistance  
+    - features that determine colonization resistance  
+    - quantifying colonization pressure  
+    - voltage models of bacterial / MDRO transmission  
+:::
+
+- Population studies of MDROs  
+
+- Interventional studies  
+
+
+## Microbiome Transmission {auto-animate=true}
+
+- Microbial ecology field studies  
+    - quantifying colonization resistance  
+    - features that determine colonization resistance  
+    - quantifying colonization pressure  
+    - voltage models of bacterial / MDRO transmission  
+
+::: {style="font-size: 1.2em; color: dodgerblue;"}
+- Population studies of MDROs  
+    - the healthcare system - community interface  
+    - reservoirs and persistence  
+    - network-based transmission modeling  
+:::
+
+- Interventional studies  
+
+
+## Microbiome Transmission {auto-animate=true}
+
+- Microbial ecology field studies  
+    - quantifying colonization resistance  
+    - features that determine colonization resistance  
+    - quantifying colonization pressure  
+    - voltage models of bacterial / MDRO transmission  
+
+- Population studies of MDROs  
+    - the healthcare system - community interface  
+    - reservoirs and persistence  
+    - network-based transmission modeling  
+
+::: {style="font-size: 1.2em; color: dodgerblue;"}
+- Interventional studies  
+    - patient level: microbiome-based therapeutics (e.g., LBPs/FMPs)  
+    - population level: reservoir remediation in high- and low-testing regimes  
+:::
+
+
