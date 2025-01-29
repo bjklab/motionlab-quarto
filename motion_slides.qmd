@@ -3,114 +3,118 @@ pagetitle: "Microbiome Transmission"
 author: "Brendan J. Kelly"
 format: 
   revealjs:
-    theme: dark
-    smaller: true
+    #smaller: true
+    theme: [dark, styles.scss]
     #incremental: true
 ---
 
-## Microbiome Transmission {auto-animate=true}
+## motion lab {auto-animate=true}
+
+
+## motion lab {auto-animate=true}
+
+*  double meaning:  
+
+
+## motion lab {auto-animate=true}
+
+*  double meaning:  
+
+    *  we use microbiome measurement tools to better understand bacterial (particularly multidrug-resistant bacterial) transmission  
+
+
+## motion lab {auto-animate=true}
+
+*  double meaning:  
+
+    *  we use microbiome measurement tools to better understand bacterial (particularly multidrug-resistant bacterial) transmission  
+
+    *  we perform trials of 'microbiome transplant' to understand how we can engineer mucosal microbiomes 'back to health' after antibiotics  
+
+
+## motion lab {auto-animate=true}
+
+*  double meaning:  
+
+    *  observational    
+
+    *  interventional    
 
 
 ## Microbiome Transmission {auto-animate=true}
 
-- double meaning:  
+
+## Microbiome Transmission {auto-animate=true}
+
+*  Microbial ecology field studies  
 
 
 ## Microbiome Transmission {auto-animate=true}
 
-- double meaning:  
+*  Microbial ecology field studies  
 
-    - we use microbiome measurement tools to better understand bacterial (particularly multidrug-resistant bacterial) transmission  
-
-
-## Microbiome Transmission {auto-animate=true}
-
-- double meaning:  
-
-    - we use microbiome measurement tools to better understand bacterial (particularly multidrug-resistant bacterial) transmission  
-
-    - we perform trials of 'microbiome transplant' to understand how we can engineer mucosal microbiomes 'back to health' after antibiotics  
+*  Population studies of MDROs
 
 
 ## Microbiome Transmission {auto-animate=true}
 
-- double meaning:  
+*  Microbial ecology field studies  
 
-    - observational    
+*  Population studies of MDROs
 
-    - interventional    
-
-
-## Microbiome Transmission {auto-animate=true}
-
-- Microbial ecology field studies  
-
-## Microbiome Transmission {auto-animate=true}
-
-- Microbial ecology field studies  
-
-- Population studies of MDROs
-
-
-## Microbiome Transmission {auto-animate=true}
-
-- Microbial ecology field studies  
-
-- Population studies of MDROs
-
-- Interventional studies  
+*  Interventional studies  
 
 
 ## Microbiome Transmission {auto-animate=true}
 
 ::: {style="font-size: 1.2em; color: dodgerblue;"}
-- Microbial ecology field studies  
-    - quantifying colonization resistance  
-    - features that determine colonization resistance  
-    - quantifying colonization pressure  
-    - voltage models of bacterial / MDRO transmission  
+*  Microbial ecology field studies  
+    *  quantifying colonization resistance  
+    *  features that determine colonization resistance  
+    *  quantifying colonization pressure  
+    *  voltage models of bacterial / MDRO transmission  
 :::
 
-- Population studies of MDROs  
+*  Population studies of MDROs  
 
-- Interventional studies  
+*  Interventional studies  
 
 
 ## Microbiome Transmission {auto-animate=true}
 
-- Microbial ecology field studies  
-    - quantifying colonization resistance  
-    - features that determine colonization resistance  
-    - quantifying colonization pressure  
-    - voltage models of bacterial / MDRO transmission  
+*  Microbial ecology field studies  
+    *  quantifying colonization resistance  
+    *  features that determine colonization resistance  
+    *  quantifying colonization pressure  
+    *  voltage models of bacterial / MDRO transmission  
 
 ::: {style="font-size: 1.2em; color: dodgerblue;"}
-- Population studies of MDROs  
-    - the healthcare system - community interface  
-    - reservoirs and persistence  
-    - network-based transmission modeling  
+*  Population studies of MDROs  
+    *  the healthcare system *  community interface  
+    *  reservoirs and persistence  
+    *  network-based transmission modeling  
 :::
 
-- Interventional studies  
+*  Interventional studies  
 
 
 ## Microbiome Transmission {auto-animate=true}
 
-- Microbial ecology field studies  
-    - quantifying colonization resistance  
-    - features that determine colonization resistance  
-    - quantifying colonization pressure  
-    - voltage models of bacterial / MDRO transmission  
+*  Microbial ecology field studies  
+    *  quantifying colonization resistance  
+    *  features that determine colonization resistance  
+    *  quantifying colonization pressure  
+    *  voltage models of bacterial / MDRO transmission  
 
-- Population studies of MDROs  
-    - the healthcare system - community interface  
-    - reservoirs and persistence  
-    - network-based transmission modeling  
+*  Population studies of MDROs  
+    *  the healthcare system *  community interface  
+    *  reservoirs and persistence  
+    *  network-based transmission modeling  
 
 ::: {style="font-size: 1.2em; color: dodgerblue;"}
-- Interventional studies  
-    - patient level: microbiome-based therapeutics (e.g., LBPs/FMPs)  
-    - population level: reservoir remediation in high- and low-testing regimes  
+*  Interventional studies  
+    *  patient level: microbiome-based therapeutics (e.g., LBPs/FMPs)  
+    *  population level: reservoir remediation in high- and low-testing regimes  
 :::
 
 
